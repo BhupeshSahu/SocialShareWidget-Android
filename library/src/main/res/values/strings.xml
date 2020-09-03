@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_app_found">No App found to handle this action</string>
+</resources>
