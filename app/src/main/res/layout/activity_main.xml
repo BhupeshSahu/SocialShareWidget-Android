@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.bhupesahu.library.SocialSharingView
+    <com.bhupesahu.socialsharewidget.library.SocialSharingView
         android:id="@+id/ssv"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

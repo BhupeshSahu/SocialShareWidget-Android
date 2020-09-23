@@ -1,4 +1,4 @@
-package com.bhupesahu.library.utils
+package com.bhupesahu.socialsharewidget.library.utils
 
 import android.content.Context
 import android.content.Intent

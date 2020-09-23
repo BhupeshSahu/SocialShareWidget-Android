@@ -1,4 +1,4 @@
-package com.bhupesahu.library
+package com.bhupesahu.socialsharewidget.library
 
 import android.content.ActivityNotFoundException
 import android.content.Context
@@ -11,10 +11,9 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import androidx.annotation.RequiresApi
 import androidx.core.content.res.ResourcesCompat
-import com.bhupesahu.library.utils.CommonUtil.OnIntentPreparedCallback
-import com.bhupesahu.library.utils.CommonUtil.getShareIntent
-import com.bhupesahu.library.utils.CommonUtil.isValidString
-import com.bhupesahu.library.utils.CommonUtil.showToast
+import com.bhupesahu.socialsharewidget.library.utils.CommonUtil.OnIntentPreparedCallback
+import com.bhupesahu.socialsharewidget.library.utils.CommonUtil.getShareIntent
+import com.bhupesahu.socialsharewidget.library.utils.CommonUtil.showToast
 import java.util.*
 
 class SocialSharingView : LinearLayout, View.OnClickListener {
